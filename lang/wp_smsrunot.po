@@ -1,0 +1,19 @@
+#: wp-admin-login-sms-notification.php:40
+msgid "SMS notification settings"
+msgstr ""
+
+#: wp-admin-login-sms-notification.php:44
+msgid "Enable notifications"
+msgstr ""
+
+#: wp-admin-login-sms-notification.php:46
+msgid "Your sms.ru api key"
+msgstr ""
+
+#: wp-admin-login-sms-notification.php:48
+msgid "Phone number on which you want receive sms notifications"
+msgstr ""
+
+#: wp-admin-login-sms-notification.php:52
+msgid "Save Changes"
+msgstr ""
